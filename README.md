@@ -14,7 +14,7 @@ You will enjoy competing against each other to fit the best performing model in 
 
 ## DAY 1
 
-**9:30 Introduction to Machine Learning**
+**9:00 Introduction to Machine Learning**
 
 https://www.youtube.com/watch?v=N9p81OwKI18&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=1&t=1s
 
@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=MhXYAAYj69Q&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8
 
 Hands on: Hitsone_marks_lr.ipynb section 1
 
-**10:45 Sanity Break**
+**10:45 Break**
 
 **11:00 Logistic regression**
 
@@ -36,7 +36,7 @@ Introduction to learning platform Kaggle + Histone mark contest
 
 Hands on: Hitsone_marks_lr.ipynb sections 2, 3 and 4
 
-**12:15 Virtual lunch time**
+**12:15 Lunch**
 
 **13:15 Model complexity**
 
@@ -44,14 +44,7 @@ https://www.youtube.com/watch?v=7JH3kNdai-4&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8
 
 Hands on: Hitsone_marks_lr.ipynb section 5
 
-**14:00 Competition time**
-
-In this section it is up to you to fit and optimze a classification model, evaluate it, and make predictions on the test set.
-At this point there should be enough time to help each of you individually.
-
-## DAY 2
-
-**9:30 Bias & Variance**
+**14:00 Bias & Variance**
 
 https://www.youtube.com/watch?v=5Nvoy7VEuJA&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=5
 
@@ -59,17 +52,34 @@ https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_com
 
 Hands on: Hitsone_marks_dt.ipynb
 
-**11:00 Improve your Kaggle AUC score**
+**15:00 Kaggle Competition**
 
-**12:15 Virtual lunch time**
+In this section it is up to you to fit and optimze a classification model, evaluate it, and make predictions on the test set.
+At this point there should be enough time to help each of you individually.
 
-**13:15 What is deep learning?**
+## DAY 2
+
+**09:00 What is deep learning?**
 
 https://www.youtube.com/watch?v=x2FHuttvApE&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=6
 
 Hands on: https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb
 
-**14:30 Sanity Break**
+**10:00 Break**
+
+**10:15 CNNs and RNNs**
+
+Hands on: pytorch.ipynb
+
+**11:00 Competition**
+
+**12:15 Lunch**
+
+**13:15 Deep Generative Models**
+
+Hands on: pytorch.ipynb
+
+**14:30 Break**
 
 **14:45 Discussions, Q&A**
 
@@ -79,6 +89,5 @@ https://playground.tensorflow.org/
 
 Coursera ML course: https://www.coursera.org/learn/machine-learning
 
-Kaggle learning: https://www.kaggle.com/learn/overview and https://www.kaggle.com/sashr07/kaggle-titanic-tutorial
-
+Kaggle learning: https://www.kaggle.com/learn/overview
 
