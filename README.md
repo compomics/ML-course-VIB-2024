@@ -1,4 +1,6 @@
-# ML-course-VIB-2021
+# ML-course-VIB-2024
+
+Based on previous courses by Prof. Sven Degroeve: ["https://github.com/sdgroeve"](https://github.com/sdgroeve)
 
 This repository contains the Jupyter notebooks for the VIB course on Machine Learning: ["A tour of Machine Learning: classification"](https://training.vib.be/all-trainings/tour-machine-learning-classification).
 
