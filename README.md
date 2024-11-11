@@ -1,20 +1,19 @@
-# ML-course-VIB-2024
+# VIB ML course 2024
 
-Based on previous courses by Prof. Sven Degroeve: ["https://github.com/sdgroeve"](https://github.com/sdgroeve)
+_Based on previous courses by [Prof. Sven Degroeve](https://github.com/sdgroeve)._
 
-This repository contains the Jupyter notebooks for the VIB course on Machine Learning: ["A tour of Machine Learning: classification"](https://training.vib.be/all-trainings/tour-machine-learning-classification).
+This repository contains the Jupyter notebooks for the VIB
+_[Machine Learning & Deep Learning Workshop](https://training.vib.be/all-trainings/machine-learning-deep-learning-workshop-0)_.
 
-You can fork this to your own repository to obtain a working copy.
+## Getting started
 
-Each notebook contains a button to run the code in Google Colaboratory.
-
-The lectures can be watched [on Youtube](https://www.youtube.com/playlist?list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e).
-
-You will enjoy competing against each other to fit the best performing model in [the Kaggle competition](https://www.kaggle.com/c/a-tour-of-machine-learning-2021).
+- Fork this repository to obtain an editable copy.
+- Start by clicking on the `Open in Colab` button in each notebook.
+- After editing a notebook, it can be saved to GitHub in your own repository.
 
 ## Schedule
 
-## DAY 1
+### Day 1
 
 **9:00 Introduction to Machine Learning**
 
@@ -24,7 +23,7 @@ https://www.youtube.com/watch?v=N9p81OwKI18&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8
 
 https://www.youtube.com/watch?v=MhXYAAYj69Q&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=2
 
-*Some discussion about gradient descent.*
+_Some discussion about gradient descent._
 
 Hands on: Hitsone_marks_lr.ipynb section 1
 
@@ -59,7 +58,7 @@ Hands on: Hitsone_marks_dt.ipynb
 In this section it is up to you to fit and optimze a classification model, evaluate it, and make predictions on the test set.
 At this point there should be enough time to help each of you individually.
 
-## DAY 2
+### Day 2
 
 **09:00 What is deep learning?**
 
@@ -89,7 +88,5 @@ https://playground.tensorflow.org/
 
 ## Further learning
 
-Coursera ML course: https://www.coursera.org/learn/machine-learning
-
-Kaggle learning: https://www.kaggle.com/learn/overview
-
+- [Coursera ML course](https://www.coursera.org/learn/machine-learning)
+- [Kaggle learning](https://www.kaggle.com/learn/overview)
