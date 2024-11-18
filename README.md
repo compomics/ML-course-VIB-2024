@@ -16,7 +16,7 @@ _[Machine Learning & Deep Learning Workshop](https://training.vib.be/all-trainin
 
 ### Day 1
 
-**9:30 Introduction to Machine Learning**
+**9:30 Introduction to Machine Learning** (Robbin Bouwmeester)
 
 Lecture by Prof. Sven Degroeve:
 [YouTube](https://www.youtube.com/watch?v=N9p81OwKI18&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=1)
@@ -24,7 +24,7 @@ Lecture by Prof. Sven Degroeve:
 Lecture slides:
 [1_introduction.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/1_introduction.pptx)
 
-**10:00 Data fitting**
+**10:00 Data fitting** (Robbin Bouwmeester)
 
 Lecture by Prof. Sven Degroeve: 
 [YouTube](https://www.youtube.com/watch?v=MhXYAAYj69Q&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=2)
@@ -37,9 +37,9 @@ _Some discussion about gradient descent._
 Hands on: 
 [Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
 
-**10:45 Break**
+**10:45 Break** (Robbin Bouwmeester)
 
-**11:00 Logistic regression**
+**11:00 Logistic regression** (Robbin Bouwmeester)
 
 Lecture by Prof. Sven Degroeve:
 [YouTube](https://www.youtube.com/watch?v=JaoCcC1UIa4&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=3)
@@ -57,7 +57,7 @@ Hands on:
 
 **12:15 Lunch**
 
-**13:15 Model complexity**
+**13:15 Model complexity** (Robbin Bouwmeester)
 
 Lecture by Prof. Sven Degroeve:
 [YouTube](https://www.youtube.com/watch?v=7JH3kNdai-4&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=4)
@@ -68,7 +68,7 @@ Lecture slides:
 Hands on: 
 [Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 5
 
-**14:00 Bias & Variance**
+**14:00 Bias & Variance** (Robbin Bouwmeester)
 
 Lecture by Prof. Sven Degroeve:
 [YouTube](https://www.youtube.com/watch?v=5Nvoy7VEuJA&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=5)
@@ -79,37 +79,36 @@ Lecture slides:
 Hands on: 
 [Histone_marks_dt.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_dt.ipynb)
 
-**15:00 Kaggle Competition**
+**15:00 Kaggle Competition** (Ralf Gabriels & Robbin Bouwmeester)
 
 In this section it is up to you to fit and optimze a regression model, evaluate it, and make predictions on the test set.
 At this point there should be enough time to help each of you individually.
 
 ### Day 2
 
-**09:00 What is deep learning?**
+**09:00 What is deep learning?** (Ralf Gabriels)
 
 Lecture by Prof. Sven Degroeve:
 [YouTube](https://www.youtube.com/watch?v=x2FHuttvApE&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=6)
 
-Hands on: https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb
-
 **10:00 Break**
 
-**10:15 CNNs and RNNs**
+**10:15 CNNs and RNNs** (Ralf Gabriels)
 
-Hands on: pytorch.ipynb
+Hands on:
+[Melanoma_CNN.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Melanoma_CNN.ipynb)
 
-**11:00 Competition**
+**11:00 Competition** (Ralf Gabriels & Robbin Bouwmeester)
 
 **12:15 Lunch**
 
-**13:15 Deep Generative Models**
+**13:15 Deep Generative Models** (Robbin Bouwmeester)
 
 Hands on: pytorch.ipynb
 
 **14:30 Break**
 
-**14:45 Discussions, Q&A**
+**14:45 Discussions, Q&A** (Ralf Gabriels & Robbin Bouwmeester)
 
 https://playground.tensorflow.org/
 
