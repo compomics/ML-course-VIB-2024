@@ -10,6 +10,7 @@ _[Machine Learning & Deep Learning Workshop](https://training.vib.be/all-trainin
 - Fork this repository to obtain an editable copy.
 - Start by clicking on the `Open in Colab` button in each notebook.
 - After editing a notebook, it can be saved to GitHub in your own repository.
+- Kaggle competition: https://www.kaggle.com/competitions/peptide-lc-retention-time-prediction
 
 ## Schedule
 
@@ -17,51 +18,77 @@ _[Machine Learning & Deep Learning Workshop](https://training.vib.be/all-trainin
 
 **9:00 Introduction to Machine Learning**
 
-https://www.youtube.com/watch?v=N9p81OwKI18&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=1&t=1s
+Lecture by Prof. Sven Degroeve:
+https://www.youtube.com/watch?v=N9p81OwKI18&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=1
+
+Lecture slides:
+https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/1_introduction.pptx
 
 **10:00 Data fitting**
 
+Lecture by Prof. Sven Degroeve:
 https://www.youtube.com/watch?v=MhXYAAYj69Q&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=2
+
+Lecture slides:
+https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/1_introduction.pptx
 
 _Some discussion about gradient descent._
 
-Hands on: Hitsone_marks_lr.ipynb section 1
+Hands on: 
+[Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
 
 **10:45 Break**
 
 **11:00 Logistic regression**
 
+Lecture by Prof. Sven Degroeve:
 https://www.youtube.com/watch?v=JaoCcC1UIa4&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=3
 
-Introduction to learning platform Kaggle + Histone mark contest
+Lecture slides:
+https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/2_logistic_regression.pptx
 
-Hands on: Hitsone_marks_lr.ipynb sections 2, 3 and 4
+Lecture slides:
+https://github.com/compomics/ML-course-VIB-2024/blob/master/slides/3_regression.pptx
+
+Introduction to learning platform Kaggle + peptide retention time competition
+
+Hands on: 
+[Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) sections 2, 3 and 4
 
 **12:15 Lunch**
 
 **13:15 Model complexity**
 
+Lecture by Prof. Sven Degroeve:
 https://www.youtube.com/watch?v=7JH3kNdai-4&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=4
 
-Hands on: Hitsone_marks_lr.ipynb section 5
+Lecture slides:
+https://github.com/compomics/ML-course-VIB-2024/blob/master/slides/4_regularization.pptx
+
+Hands on: 
+[Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 5
 
 **14:00 Bias & Variance**
 
+Lecture by Prof. Sven Degroeve:
 https://www.youtube.com/watch?v=5Nvoy7VEuJA&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=5
 
-https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
+Lecture slides:
+https://github.com/compomics/ML-course-VIB-2024/blob/master/slides/5_ensemble_learning.pptx
 
-Hands on: Hitsone_marks_dt.ipynb
+Hands on: 
+[Histone_marks_dt.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_dt.ipynb)
 
 **15:00 Kaggle Competition**
 
-In this section it is up to you to fit and optimze a classification model, evaluate it, and make predictions on the test set.
+In this section it is up to you to fit and optimze a regression model, evaluate it, and make predictions on the test set.
 At this point there should be enough time to help each of you individually.
 
 ### Day 2
 
 **09:00 What is deep learning?**
 
+Lecture by Prof. Sven Degroeve:
 https://www.youtube.com/watch?v=x2FHuttvApE&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=6
 
 Hands on: https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/classification.ipynb
