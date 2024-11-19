@@ -95,8 +95,11 @@ Lecture by Prof. Sven Degroeve:
 
 **10:15 CNNs and RNNs** (Ralf Gabriels)
 
-Hands on:
+Hands on (CNN):
 [Melanoma_CNN.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Melanoma_CNN.ipynb)
+
+Additional material (RNN):
+[Pytorch lightning RNN](https://lightning.ai/lightning-ai/studios/train-a-recurrent-neural-network-with-pytorch-lightning)
 
 **11:00 Competition** (Ralf Gabriels & Robbin Bouwmeester)
 
