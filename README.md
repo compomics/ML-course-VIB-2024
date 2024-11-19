@@ -111,7 +111,7 @@ Hands on: pytorch.ipynb
 
 **14:30 Break**
 
-**14:45 Discussions, Q&A** (Ralf Gabriels & Robbin Bouwmeester)
+**14:45 Discussions, Q&A, and competition** (Ralf Gabriels & Robbin Bouwmeester)
 
 https://playground.tensorflow.org/
 
