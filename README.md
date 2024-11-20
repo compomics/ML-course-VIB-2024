@@ -104,6 +104,9 @@ At this point there should be enough time to help each of you individually.
 Lecture by Prof. Sven Degroeve:
 [YouTube](https://www.youtube.com/watch?v=x2FHuttvApE&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=6)
 
+Lecture slides:
+[6_deep_neural_networks.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/6_deep_neural_networks.pptx)
+
 ---
 
 **10:00 Break**
@@ -118,6 +121,11 @@ Hands on (CNN):
 Additional material (RNN):
 [Pytorch lightning RNN](https://lightning.ai/lightning-ai/studios/train-a-recurrent-neural-network-with-pytorch-lightning)
 
+Lecture slides:
+[7_computer_vision.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/7_computer_vision.pptx)
+
+[8_sequence_modeling.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/8_sequence_modeling.pptx)
+
 ---
 
 **11:00 Competition** (Ralf Gabriels & Robbin Bouwmeester)
@@ -130,7 +138,8 @@ Additional material (RNN):
 
 **13:15 Deep Generative Models** (Robbin Bouwmeester)
 
-Hands on: pytorch.ipynb
+Lecture slides:
+[9_deep_generative_models.pptx](https://github.com/compomics/ML-course-VIB-2024/blob/master/slides/9_deep_generative_models.pptx)
 
 ---
 
