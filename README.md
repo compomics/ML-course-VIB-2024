@@ -37,7 +37,7 @@ _Some discussion about gradient descent._
 Hands on: 
 [Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
 
-**10:45 Break** (Robbin Bouwmeester)
+**10:45 Break**
 
 **11:00 Logistic regression** (Robbin Bouwmeester)
 
