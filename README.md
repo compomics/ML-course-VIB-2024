@@ -15,7 +15,7 @@ _[Machine Learning & Deep Learning Workshop](https://training.vib.be/all-trainin
 ## Schedule
 
 ### Day 1
-
+---
 **9:30 Introduction to Machine Learning** (Robbin Bouwmeester)
 
 Lecture by Prof. Sven Degroeve:
@@ -23,6 +23,8 @@ Lecture by Prof. Sven Degroeve:
 
 Lecture slides:
 [1_introduction.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/1_introduction.pptx)
+
+---
 
 **10:00 Data fitting** (Robbin Bouwmeester)
 
@@ -37,7 +39,11 @@ _Some discussion about gradient descent._
 Hands on: 
 [Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 1
 
+---
+
 **10:45 Break**
+
+---
 
 **11:00 Logistic regression** (Robbin Bouwmeester)
 
@@ -52,7 +58,11 @@ Introduction to learning platform Kaggle + peptide retention time competition
 Hands on: 
 [Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) sections 2, 3 and 4
 
+---
+
 **12:15 Lunch**
+
+---
 
 **13:15 Model complexity** (Robbin Bouwmeester)
 
@@ -65,6 +75,8 @@ Lecture slides:
 Hands on: 
 [Histone_marks_lr.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_lr.ipynb) section 5
 
+---
+
 **14:00 Bias & Variance** (Robbin Bouwmeester)
 
 Lecture by Prof. Sven Degroeve:
@@ -76,6 +88,8 @@ Lecture slides:
 Hands on: 
 [Histone_marks_dt.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Histone_marks_dt.ipynb)
 
+---
+
 **15:00 Kaggle Competition** (Ralf Gabriels & Robbin Bouwmeester)
 
 In this section it is up to you to fit and optimze a regression model, evaluate it, and make predictions on the test set.
@@ -83,12 +97,18 @@ At this point there should be enough time to help each of you individually.
 
 ### Day 2
 
+---
+
 **09:00 What is deep learning?** (Ralf Gabriels)
 
 Lecture by Prof. Sven Degroeve:
 [YouTube](https://www.youtube.com/watch?v=x2FHuttvApE&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=6)
 
+---
+
 **10:00 Break**
+
+---
 
 **10:15 CNNs and RNNs** (Ralf Gabriels)
 
@@ -98,19 +118,31 @@ Hands on (CNN):
 Additional material (RNN):
 [Pytorch lightning RNN](https://lightning.ai/lightning-ai/studios/train-a-recurrent-neural-network-with-pytorch-lightning)
 
+---
+
 **11:00 Competition** (Ralf Gabriels & Robbin Bouwmeester)
 
+---
+
 **12:15 Lunch**
+
+---
 
 **13:15 Deep Generative Models** (Robbin Bouwmeester)
 
 Hands on: pytorch.ipynb
 
+---
+
 **14:30 Break**
+
+---
 
 **14:45 Discussions, Q&A, and competition** (Ralf Gabriels & Robbin Bouwmeester)
 
 https://playground.tensorflow.org/
+
+---
 
 ## Further learning
 
