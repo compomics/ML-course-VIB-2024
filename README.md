@@ -105,6 +105,7 @@ Lecture by Prof. Sven Degroeve:
 [YouTube](https://www.youtube.com/watch?v=x2FHuttvApE&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=6)
 
 Lecture slides:
+
 [6_deep_neural_networks.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/6_deep_neural_networks.pptx)
 
 ---
@@ -122,6 +123,7 @@ Additional material (RNN):
 [Pytorch lightning RNN](https://lightning.ai/lightning-ai/studios/train-a-recurrent-neural-network-with-pytorch-lightning)
 
 Lecture slides:
+
 [7_computer_vision.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/7_computer_vision.pptx)
 
 [8_sequence_modeling.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/8_sequence_modeling.pptx)
