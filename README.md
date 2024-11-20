@@ -30,7 +30,7 @@ Lecture by Prof. Sven Degroeve:
 [YouTube](https://www.youtube.com/watch?v=MhXYAAYj69Q&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=2)
 
 Lecture slides:
-[1_introduction.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/1_introduction.pptx)
+[2_regression.pptx](https://github.com/compomics/ML-course-VIB-2024/blob/master/slides/2_regression.pptx)
 
 _Some discussion about gradient descent._
 
@@ -45,10 +45,7 @@ Lecture by Prof. Sven Degroeve:
 [YouTube](https://www.youtube.com/watch?v=JaoCcC1UIa4&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=3)
 
 Lecture slides:
-[2_logistic_regression.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/2_logistic_regression.pptx)
-
-Lecture slides:
-[3_regression.pptx](https://github.com/compomics/ML-course-VIB-2024/blob/master/slides/3_regression.pptx)
+[3_logistic_regression.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/3_logistic_regression.pptx)
 
 Introduction to learning platform Kaggle + peptide retention time competition
 
