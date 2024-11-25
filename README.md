@@ -116,7 +116,7 @@ Lecture slides:
 **10:45 CNNs and RNNs** (Ralf Gabriels)
 
 Hands on (CNN):
-[Melanoma_CNN.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Melanoma_CNN.ipynb)
+[Melanoma_CNN.ipynb (Kaggle)](https://www.kaggle.com/code/ralfga/ml-course-vib-2024-melanoma-classification)
 
 Additional material (RNN):
 [Pytorch lightning RNN](https://lightning.ai/lightning-ai/studios/train-a-recurrent-neural-network-with-pytorch-lightning)
