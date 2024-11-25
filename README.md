@@ -99,7 +99,7 @@ At this point there should be enough time to help each of you individually.
 
 ---
 
-**09:00 What is deep learning?** (Ralf Gabriels)
+**09:30 What is deep learning?** (Ralf Gabriels)
 
 Lecture by Prof. Sven Degroeve:
 [YouTube](https://www.youtube.com/watch?v=x2FHuttvApE&list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e&index=6)
@@ -109,11 +109,11 @@ Lecture slides:
 
 ---
 
-**10:00 Break**
+**10:30 Break**
 
 ---
 
-**10:15 CNNs and RNNs** (Ralf Gabriels)
+**10:45 CNNs and RNNs** (Ralf Gabriels)
 
 Hands on (CNN):
 [Melanoma_CNN.ipynb](https://github.com/compomics/ML-course-VIB-2024/blob/master/notebooks/Melanoma_CNN.ipynb)
@@ -126,10 +126,6 @@ Lecture slides:
 [7_computer_vision.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/7_computer_vision.pptx)
 
 [8_sequence_modeling.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/8_sequence_modeling.pptx)
-
----
-
-**11:00 Competition** (Ralf Gabriels & Robbin Bouwmeester)
 
 ---
 
@@ -156,5 +152,8 @@ https://playground.tensorflow.org/
 
 ## Further learning
 
-- [Coursera ML course](https://www.coursera.org/learn/machine-learning)
+- [Coursera ML course](https://www.coursera.org/specializations/machine-learning-introduction)
+- [Coursera DL course](https://www.coursera.org/specializations/deep-learning)
 - [Kaggle learning](https://www.kaggle.com/learn/overview)
+- [Stanford course ML](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [Scikit-learn](https://scikit-learn.org/stable/user_guide.html)
