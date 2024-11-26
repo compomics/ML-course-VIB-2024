@@ -167,6 +167,8 @@ https://playground.tensorflow.org/
 
 ---
 
+**16:50 Announcement of the competition winner & closing!**
+
 ## Further learning
 
 - [Coursera ML course](https://www.coursera.org/specializations/machine-learning-introduction)
