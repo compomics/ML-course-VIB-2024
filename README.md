@@ -176,3 +176,7 @@ https://playground.tensorflow.org/
 - [Kaggle learning](https://www.kaggle.com/learn/overview)
 - [Stanford course ML](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+
+## Contact (open for collaborations)
+
+Ralf Gabriels (ralf.gabriels@ugent.be) & Robbin Bouwmeester (robbin.bouwmeester@ugent.be) 
