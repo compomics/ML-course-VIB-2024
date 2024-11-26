@@ -150,18 +150,18 @@ Lecture slides:
 
 ---
 
-**14:00 Deep Generative Models** (Robbin Bouwmeester)
+**13:45 Deep Generative Models** (Robbin Bouwmeester)
 
 Lecture slides:
 [9_deep_generative_models.pptx](https://github.com/compomics/ML-course-VIB-2024/blob/master/slides/9_deep_generative_models.pptx)
 
 ---
 
-**14:45 Break**
+**14:30 Break**
 
 ---
 
-**15:00 Discussions, Q&A, and competition** (Ralf Gabriels & Robbin Bouwmeester)
+**14:45 Discussions, Q&A, and competition** (Ralf Gabriels & Robbin Bouwmeester)
 
 https://playground.tensorflow.org/
 
