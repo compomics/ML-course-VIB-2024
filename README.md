@@ -133,18 +133,35 @@ Lecture slides:
 
 ---
 
-**13:15 Deep Generative Models** (Robbin Bouwmeester)
+**13:15 CNNs and RNNs - continued** (Ralf Gabriels)
+
+
+Hands on (CNN):
+[Melanoma_CNN.ipynb (Kaggle)](https://www.kaggle.com/code/ralfga/ml-course-vib-2024-melanoma-classification)
+
+Additional material (RNN):
+[Pytorch lightning RNN](https://lightning.ai/lightning-ai/studios/train-a-recurrent-neural-network-with-pytorch-lightning)
+
+Lecture slides:
+
+[7_computer_vision.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/7_computer_vision.pptx)
+
+[8_sequence_modeling.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/8_sequence_modeling.pptx)
+
+---
+
+**14:00 Deep Generative Models** (Robbin Bouwmeester)
 
 Lecture slides:
 [9_deep_generative_models.pptx](https://github.com/compomics/ML-course-VIB-2024/blob/master/slides/9_deep_generative_models.pptx)
 
 ---
 
-**14:30 Break**
+**14:45 Break**
 
 ---
 
-**14:45 Discussions, Q&A, and competition** (Ralf Gabriels & Robbin Bouwmeester)
+**15:00 Discussions, Q&A, and competition** (Ralf Gabriels & Robbin Bouwmeester)
 
 https://playground.tensorflow.org/
 
